@@ -38,8 +38,14 @@ Repeat the procedure for the 2khz, sine wave signal as input
 ![Screenshot (69)](https://github.com/user-attachments/assets/04f7c40f-307b-4c9f-abc3-8759005ae2d7)
 
 ## TABLE
+![Screenshot (89)](https://github.com/user-attachments/assets/5cba1e9a-8334-4c2d-9988-37ca04436995)
 
 ## OUTPUT GRAPHS
+NATURAL SAMPLING:
+![WhatsApp Image 2025-04-21 at 7 32 21 PM](https://github.com/user-attachments/assets/a47becd6-372a-4533-aaca-06d66b3d43c6)
+
+FLAT TOP:
+![WhatsApp Image 2025-04-27 at 8 05 09 PM](https://github.com/user-attachments/assets/b4ad664a-1814-43a8-ac46-e371dc032da2)
 
 ## RESULT 
 Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques.
